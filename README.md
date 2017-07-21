@@ -12,9 +12,9 @@ npm install vue-multiple-back-top -S
 
 ```bash
 import Vue from 'vue'
-import VmRate from 'vvue-multiple-back-top'
+import VmBackTop from 'vvue-multiple-back-top'
 
-Vue.component(VmRate.name, VmRate)
+Vue.component(VmBackTop.name, VmBackTop)
 ```
 
 For more information, please refer to [back-top](http://vue-multiple.github.io/back-top) in our documentation.
