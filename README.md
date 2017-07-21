@@ -17,7 +17,7 @@ import VmRate from 'vvue-multiple-back-top'
 Vue.component(VmRate.name, VmRate)
 ```
 
-For more information, please refer to [Rate](http://vue-multiple.github.io/back-top) in our documentation.
+For more information, please refer to [back-top](http://vue-multiple.github.io/back-top) in our documentation.
 
 ## Build Setup
 
