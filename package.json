@@ -1,5 +1,5 @@
 {
-  "name": "back-top",
+  "name": "vue-multiple-back-top",
   "description": "Vue-based back-top component",
   "version": "1.0.0",
   "author": "vue-multiple",
@@ -24,6 +24,8 @@
   "keywords": [
     "vue",
     "back-top",
+    "backtop",
+    "back-to-top",
     "components"
   ],
   "license": "MIT",

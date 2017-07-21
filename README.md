@@ -12,7 +12,7 @@ npm install vue-multiple-back-top -S
 
 ```bash
 import Vue from 'vue'
-import VmBackTop from 'vvue-multiple-back-top'
+import VmBackTop from 'vue-multiple-back-top'
 
 Vue.component(VmBackTop.name, VmBackTop)
 ```
