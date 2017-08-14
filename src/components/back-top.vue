@@ -2,7 +2,7 @@
     <div :class="classes" :style="styles" @click="back" @mouseenter="showNav" @mouseleave="hideNav">
         <slot>
             <div :class="innerClasses">
-                <i class="vm-icon-een"></i>
+                <i class="vm-backtop-icon-een"></i>
             </div>
         </slot>
         <div v-show="navShow" :class="nav">

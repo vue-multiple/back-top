@@ -1,7 +1,7 @@
 {
   "name": "vue-multiple-back-top",
   "description": "Vue-based back-top component",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "vue-multiple",
   "main": "lib/back-top.js",
   "files": [
